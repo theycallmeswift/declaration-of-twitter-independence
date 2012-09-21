@@ -28,5 +28,6 @@ We, therefore, the Developers of the Twitter Community, do, in the Name, and by 
 * [Gerard O'Neill](http://goneill.net/)
 * [Vaibhav Verma](http://vverma.net/)
 * [Chase Sillevis](https://chase.sillevis.net/)
+* [Jesse Huang](http://ruslug.rutgers.edu/~jeshuang/)
 
 *[Fork the project on Github](https://github.com/theycallmeswift/declaration-of-twitter-independence), and add yourself as a signer in a pull request.  Comments on [Hacker News](http://news.ycombinator.org/item?id=4554327).*
