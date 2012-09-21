@@ -30,5 +30,6 @@ We, therefore, the Developers of the Twitter Community, do, in the Name, and by 
 * [Chase Sillevis](https://chase.sillevis.net/)
 * [Geoff Tidey](http://tidey.net)
 * [Koushik Dasika](http://koushikdasika.com/) Rutgers University
+* [Jared King](http://jaredtking.com/) University of Tulsa
 
 *[Fork the project on Github](https://github.com/theycallmeswift/declaration-of-twitter-independence), and add yourself as a signer in a pull request.  Comments on [Hacker News](http://news.ycombinator.org/item?id=4554327).*
