@@ -20,7 +20,7 @@ a:hover {
   color: #005695;
 }
 
-h1 {
+h1, h2, h3 {
   font-family: 'Mr Dafoe', cursive;
   color: #343434;
 }
@@ -38,7 +38,7 @@ h1 {
   margin-bottom: 5px;
 }
 
-#preamble p:first-child:first-letter { 
+#preamble p:first-letter { 
   float: left; 
   color: #343434; 
   font-size: 75px; 
@@ -47,4 +47,26 @@ h1 {
   padding-right: 8px;
   padding-left: 3px;
   font-family: Georgia;
+}
+
+h2 {
+  border-bottom: 1px dotted #DDD;
+  margin-bottom: 20px;
+}
+
+#supporters + ul {
+  overflow: hidden;
+}
+
+#supporters + ul a {
+  display: block;
+}
+
+#supporters + ul li {
+  color: #999;
+  display: inline-block;
+  min-height: 40px;
+  vertical-align: top;
+  width: 33%;
+  margin-bottom: 10px;
 }
