@@ -1,0 +1,50 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+a {
+  color: #008DF2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #005695;
+}
+
+h1 {
+  font-family: 'Mr Dafoe', cursive;
+  color: #343434;
+}
+
+#tldr {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top: 1px dotted #DDD;
+  border-bottom: 1px dotted #DDD;
+}
+
+#tldr p {
+  margin-bottom: 5px;
+}
+
+#preamble p:first-child:first-letter { 
+  float: left; 
+  color: #343434; 
+  font-size: 75px; 
+  line-height: 60px; 
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+  font-family: Georgia;
+}
