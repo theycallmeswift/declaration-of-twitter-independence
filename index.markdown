@@ -26,5 +26,6 @@ We, therefore, the Developers of the Twitter Community, do, in the Name, and by 
 
 * [Swift](http://theycallmeswift.com/) SendGrid & Hacker League
 * [Gerard O'Neill](http://goneill.net/)
+* [Vaibhav Verma](http://vverma.net/)
 
 *[Fork the project on Github](https://github.com/theycallmeswift/declaration-of-twitter-independence), and add yourself as a signer in a pull request.  Comments on [Hacker News](#).*
