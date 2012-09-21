@@ -21,10 +21,13 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Mr Dafoe', cursive;
+  font-family: 'IM Fell English', serif;
   color: #343434;
   margin-bottom: 20px;
-  word-spacing: 7px;
+}
+
+h1 {
+  font-size: 38px;
 }
 
 p, ul {
