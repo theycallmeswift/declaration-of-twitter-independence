@@ -35,5 +35,6 @@ We, therefore, the Developers of the Twitter Community, do, in the Name, and by 
 * [Jerry Reptak](http://jreptak.com) Rutgers University
 * [Elmer Thomas](http://www.thinkingserious.com) SendGrid
 * [Chad Scira](http://chadscira.com)
+* [Sebastian Kimberk](http://twitter.com/skimberk1)
 
 *[Fork the project on Github](https://github.com/theycallmeswift/declaration-of-twitter-independence), and add yourself as a signer in a pull request.  Comments on [Hacker News](http://news.ycombinator.org/item?id=4554327).*
