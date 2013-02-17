@@ -51,7 +51,7 @@ li, ul, p {
   margin-bottom: 5px;
 }
 
-#preamble p:first-child:first-letter { 
+#preamble p:nth-child(2):first-letter { 
   float: left; 
   color: #343434; 
   font-size: 75px; 

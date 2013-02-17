@@ -3,6 +3,11 @@ layout: default
 title: The Declaration Of Twitter Independence
 ---
 
+*__Update__ (2/16/13): As sad as it is to say, I'm deprecating this vow to not use the
+twitter API because it is unfortunately a necessary evil that developers may,
+from time to time, have to use APIs that are developed by companies that do not
+share, with them, the same values.  It was a great idea in theory, not so hot in practice.*
+
 We hold these truths to be self-evident, that all APIs should maintain a free and open standard towards their Developer Community, that the Apps on their platform possess certain unalienable Rights, that among these are Freedom, Open Access, and the ability to display, manipulate, and produce data.  That APIs are implemented for Developers to consume, deriving their powers from the apps that the Developers build.  That whenever any API becomes destructive of these ends, it is the Right of the Community to refuse to support it, and to explore alternate platforms, giving precedence to those that do support such principles.
 
 Prudence, indeed, will dictate that APIs long established should not be abandoned for light and transient causes; and accordingly all experience hath shewn, that developers are more disposed to suffer, while evils are sufferable, than to right themselves by abandoning platforms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to fight back against such practices, and to act in the interest of the Developer Community. 
