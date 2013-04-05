@@ -10,7 +10,7 @@ share, with them, the same values.  It was a great idea in theory, not so hot in
 
 We hold these truths to be self-evident, that all APIs should maintain a free and open standard towards their Developer Community, that the Apps on their platform possess certain unalienable Rights, that among these are Freedom, Open Access, and the ability to display, manipulate, and produce data.  That APIs are implemented for Developers to consume, deriving their powers from the apps that the Developers build.  That whenever any API becomes destructive of these ends, it is the Right of the Community to refuse to support it, and to explore alternate platforms, giving precedence to those that do support such principles.
 
-Prudence, indeed, will dictate that APIs long established should not be abandoned for light and transient causes; and accordingly all experience hath shewn, that developers are more disposed to suffer, while evils are sufferable, than to right themselves by abandoning platforms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to fight back against such practices, and to act in the interest of the Developer Community. 
+Prudence, indeed, will dictate that APIs long established should not be abandoned for light and transient causes; and accordingly all experience hath shewn, that developers are more disposed to suffer, while evils are sufferable, than to right themselves by abandoning platforms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to fight back against such practices, and to act in the interest of the Developer Community.
 
 Such has been the patient sufferance of these Developers; and such is now the necessity which constrains them to fight for their Rights. The history of the present Twitter API is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over the Developer Community. To prove this, let Facts be submitted to a candid world.
 
@@ -44,5 +44,6 @@ We, therefore, the Developers of the Twitter Community, do, in the Name, and by 
 * [Jacob Jenkins](http://twitter.com/xyzodiac)
 * [Ando](http://twitter.com/__ando)
 * [Martyn Davies](http://www.martyndavies.net) SendGrid
+* [Sam Agnew](http://www.samshreds.com) Rutgers University
 
 *[Fork the project on Github](https://github.com/theycallmeswift/declaration-of-twitter-independence), and add yourself as a signer in a pull request.  Comments on [Hacker News](http://news.ycombinator.org/item?id=4554327).*
